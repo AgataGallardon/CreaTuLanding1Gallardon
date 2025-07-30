@@ -1,0 +1,20 @@
+.logoNav {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 20px;
+}
+
+.logoNav img {
+  width: 150px;
+  height: auto;
+}
+
+    
+
+.Body {
+    background-color: rgb(227, 198, 159);
+}
+.logoart {
+    width: 50px;
+}
