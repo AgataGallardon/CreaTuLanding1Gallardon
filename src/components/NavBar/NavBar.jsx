@@ -17,7 +17,10 @@ export default function NavBar() {
           <li><Link to="/category/mochilas">Mochilas</Link></li>
         </ul>
       </nav>
-      <Cardwidget />
+
+      <Link to="/cart" aria-label="Ir al carrito">
+        <Cardwidget />
+      </Link>
     </header>
   )
 }
